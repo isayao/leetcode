@@ -1,4 +1,5 @@
 /*
+Array：数组
 Example:
 Given nums = [2, 7, 11, 15], target = 9,
 
